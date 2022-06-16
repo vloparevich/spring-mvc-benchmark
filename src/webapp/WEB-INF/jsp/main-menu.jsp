@@ -7,6 +7,12 @@
     <title>Document</title>
 </head>
 <body>
-    <div><h2>Hello Spring MVC SUKA</h2></div>
+ <div><h2>Hello Spring MVC SUKA</h2></div>
+ <hr>
+<a href="hello/showForm">Hello World Form</a>
+<br>
+<a href="student/showForm">Student form</a>
+<br>
+<a href="customer/showForm">Customer registration form</a>
 </body>
 </html>
