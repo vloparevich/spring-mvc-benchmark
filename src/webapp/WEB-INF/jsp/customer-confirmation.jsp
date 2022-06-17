@@ -12,7 +12,9 @@
 The customer is confirmed:
 <div>
     <h2>Customer name: ${customer.firstName} ${customer.lastName}</h2>
-
+<h2>Customer has: ${customer.freePasses} free passes</h2>
+<h2>Customer has: ${customer.zipCode} zipcode</h2>
+<h2>Course code: ${customer.courseCode}</h2>
 </div>
 </body>
 </html>
